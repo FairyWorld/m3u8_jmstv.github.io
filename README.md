@@ -134,7 +134,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 卷毛鼠基于Golang语言做的一套国内知名直播平台代理系统，实现重定向访问虎牙、斗鱼、Bilibili直播间M3U8/FLV直播流，将直播平台动态源转换为静态链接，方便在各种终端平台的播放器中直接播放。在原作者(原作者已跑路两年)代码基础上修复了部分错误，提高了代理的性能！更多直播平台将陆续添加。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.28-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.30-brightgreen?style=for-the-badge)
 
 ### 使用教程
 
