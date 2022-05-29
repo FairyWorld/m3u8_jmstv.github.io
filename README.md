@@ -140,16 +140,18 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 直播源表现格式：
 
-> https://live.52sf.ga/平台/ID
+> 主：https://live.52sf.ga/平台/ID
+> 备：https://liveb.52sf.ga/平台/ID
 >   * 虎牙=huya；斗鱼=douyu；B站=bilibili
 
 完整直播源举例：
 
-> https://live.52sf.ga/bilibili/10375360
+> 主：https://live.52sf.ga/bilibili/10375360
+> 备：https://liveb.52sf.ga/bilibili/10375360
 > 如果主播下播将无法观看哦~
 
 ### 更新日志
-> **2022.05.30**：虎牙一起看已修复，斗鱼已修复。
+> **2022.05.30**：虎牙一起看已修复，斗鱼已修复；增加备份直播代理服务器缓解主服压力。
 > 
 > **2022.05.28**：虎牙直播间已修复，虎牙一起看修复中。
 > 
