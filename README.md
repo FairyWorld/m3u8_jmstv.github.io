@@ -104,10 +104,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 通过cloudflare workers代理出的电视匣源，适用任何播放器，因基于cloudflare workers代理，每天只有10w请求，如发现不能播放，说明请求已用光，等待第二天恢复即可。
 
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-CFW.m3u
-
-通过vps代理出的电视匣源，适用任何播放器，无任何请求限制，随用随播！
-
-> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-VPS.m3u
+> 
 
 ### 卷毛鼠PHP代理
 
@@ -118,6 +115,8 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-PHP.m3u
 
 ### 更新日志
+> **2022.05.30**：下架电视匣VPS代理版，请使用cf workers版，不能播放是请求超限制，请自行在cf部署。
+> 
 > **2022.05.28**：电视匣代理源代码已更新，代理源已恢复正常；新增一套PHP代理直播源。
 > 
 > **2022.05.27**：电视匣官方更换了key数组，代理中key数组失效，项目作者正在咕咕代码，敬请期待~~
