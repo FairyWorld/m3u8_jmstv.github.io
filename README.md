@@ -7,7 +7,6 @@
 - [**直播源**](#直播源)
   - [**直播源目录导航**](#直播源目录导航)
   - [**卷毛鼠代理直播源**](#卷毛鼠代理直播源)
-    - [电视匣Go代理](#电视匣go代理)
     - [卷毛鼠PHP代理](#卷毛鼠php代理)
     - [更新日志](#更新日志)
   - [**卷毛鼠代理直播平台源**](#卷毛鼠代理直播平台源)
@@ -95,16 +94,10 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 卷毛鼠通过各种程序或项目代理的电视直播源。代理亦可理解为转发的含义，因部分公开的电视直播受限于固定的播放环境，通过代理即可重新定义直播源体现形式，将各种有验证的动态的链接固定为单一的静态链接，方便大家观看。
 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.28-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.30-brightgreen?style=for-the-badge)
 
 
-### 电视匣Go代理
 
-
-通过cloudflare workers代理出的电视匣源，适用任何播放器，因基于cloudflare workers代理，每天只有10w请求，如发现不能播放，说明请求已用光，等待第二天恢复即可。
-
-> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-CFW.m3u
-> 
 
 ### 卷毛鼠PHP代理
 
@@ -115,7 +108,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-PHP.m3u
 
 ### 更新日志
-> **2022.05.30**：下架电视匣VPS代理版，请使用cf workers版，不能播放是请求超限制，请自行在cf部署。
+> **2022.05.30**：因特殊原因，下架电视匣，请使用PHP代理源。
 > 
 > **2022.05.28**：电视匣代理源代码已更新，代理源已恢复正常；新增一套PHP代理直播源。
 > 
@@ -197,8 +190,6 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 ---
 
 ## 鸣谢
-
-感谢 [woodongwong](https://github.com/woodongwong) 提供tvfix电视匣代理方案
 
 感谢我飞哥、 [linsongze](https://github.com/linsongze) 提供直播平台和YouTube代理方案，和辛苦修复
 
