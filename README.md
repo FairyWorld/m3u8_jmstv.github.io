@@ -105,7 +105,8 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 节目源当前频道数：666
 
-> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-PHP.m3u
+> https://m3u.52sf.ga/JMSTV-PHP.m3u
+> 
 
 ### 更新日志
 > **2022.05.30**：因特殊原因，下架电视匣，请使用PHP代理源。
@@ -163,7 +164,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 ### M3U文件
 
-> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-YTB.m3u
+> https://m3u.52sf.ga/JMSTV-YTB.m3u
 > 
 
 ### 更新日志
@@ -192,7 +193,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 ### M3U文件
 
-> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-HNYD.m3u
+> https://m3u.52sf.ga/JMSTV-HNYD.m3u
 > 
 
 ### 更新日志
