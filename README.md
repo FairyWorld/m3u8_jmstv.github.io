@@ -187,6 +187,13 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 ## **互联网收集直播源**
 卷毛鼠从互联网以及群友分享的节目源中检测整理的节目源，精简好用。但大街源失效迅速，维护不易，且用且珍惜。
 
+
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.06.02-brightgreen?style=for-the-badge)
+
+### M3U文件
+
+> https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-HNYD.m3u
+> 
 ---
 
 ## 鸣谢
