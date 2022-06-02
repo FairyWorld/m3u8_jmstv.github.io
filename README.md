@@ -194,6 +194,11 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-HNYD.m3u
 > 
+
+### 更新日志
+> **2022.06.02**：上线一条河南移动大街源，大街源失效不补。
+> 
+
 ---
 
 ## 鸣谢
