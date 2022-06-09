@@ -160,7 +160,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 卷毛鼠基于Golang语言做的一套Youtube代理系统，实现重定向访问Youtube直播流无需挂代理，可直接在各种终端平台的播放器中直接播放。目前收录42个频道，如有新的链接可以在issue直接提交，我会更新到代理系统中。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.06.03-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.06.09-brightgreen?style=for-the-badge)
 
 ### M3U文件
 
