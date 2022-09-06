@@ -117,7 +117,7 @@
 > 
 
 ### 更新日志
-> **2022.09.06**：剔除失效代理和慢速代理，已涵盖TVB无线新闻、Now新闻系列频道，央视、卫视以及运营商付费数字频道。当前频道数：139
+> **2022.09.06**：剔除失效代理和慢速代理，已涵盖TVB无线新闻、Now新闻系列频道，央视、卫视以及运营商付费数字频道。
 > 
 > **2022.07.31**：新增一组咪咕代理源。
 > 
@@ -210,7 +210,7 @@
 
 卷毛鼠基于开源Python程序提供台湾4GTV电视频道节目源，可直接在各种终端平台的播放器中直接播放，目前收录120个频道。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.09-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.06-brightgreen?style=for-the-badge)
 
 ### M3U文件
 
@@ -218,7 +218,7 @@
 > 
 
 ### 更新日志
-> **2022.09.09**：上线4GTV台湾电视频道节目源，当前收录频道数：120
+> **2022.09.06**：上线4GTV台湾电视频道节目源，当前收录频道数：120
 > 
 
 
@@ -281,10 +281,33 @@
 > 436=曲艺台   291=云南   129=福建
 > 434=方言台   11=安徽    327=甘肃
 > 357=新疆     342=青海   308=西藏
-
-> 云听FM：https://php.52sf.ga/JMSTV-PHP.m3u
 > 
-> 喜马拉雅FM：https://php.52sf.ga/JMSTV-PHP.m3u
+> 随机收听云听FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMYT.php?id=&type=
+> 
+> 获取地区分类云听FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMYT.php?id=list&type=云听FM分类ID
+> 
+> 云听FM分类ID
+> 
+> china=中国        shandong=7山东
+> beijing=北京      shanxi_1=山西
+> hebei=河北        hunan=湖南
+> shanghai=上海     hubei=湖北
+> chongqing=重庆    hainan=海南
+> henan=河南        jilin=吉林
+> jiangsu=江苏      heilongjiang=黑龙江
+> guizhou=贵州      shanxi_2=陕西
+> liaoning=辽宁     neimenggu=内蒙古
+> sichuan=四川      guangxi=广西
+> zhejiang=浙江     yunnan=云南
+> ningxia=宁夏      anhui=安徽
+> fujian=福建       qinghai=青海
+> gansu=甘肃        xinjiang=新疆
+> guangdong=广东    xizang=西藏
+> jiangxi=江西      xinjiangbingtuan=新疆兵团
+> 
+> 随机收听喜马拉雅FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMXMLY.php?id=rand
+
+> 获取喜马拉雅全部FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMXMLY.php?id=list
 > 
 ### 更新日志
 > **2022.09.06**：新增加广播节目，云听、蜻蜓FM、喜马拉雅FM。
