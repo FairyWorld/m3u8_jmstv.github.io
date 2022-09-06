@@ -262,7 +262,7 @@
 
 > 随机收听蜻蜓FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMQT.php?id=rand
 > 
-> 获取地区分类蜻蜓FM电台：https://php.52sf.ga/jmsradioqt.php?id=rand&type=蜻蜓FM分类ID
+> 获取地区分类蜻蜓FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMQT.php?id=rand&type=蜻蜓FM分类ID
 > 
 > 蜻蜓FM分类ID
 > 
