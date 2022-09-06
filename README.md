@@ -178,17 +178,19 @@
 
 ### 使用教程
 
-> https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=youtubeID&P=分辨率
-> 
+> ~~https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=youtubeID&P=分辨率~~
+>  已下架，敬请期待替代代理方案！
 
 使用示例：
 > Youtube链接：https://www.youtube.com/watch?v=LbS-xQ67fos
 > 
 > 分辨率：720P=720  1080P=1080
 > 
-> https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=LbS-xQ67fos&P=1080
+> ~~https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=LbS-xQ67fos&P=1080~~
 > 
 ### 更新日志
+> **2022.09.06**：因用户反馈部分频道无法播放，经检测发现此代理方式对播放器兼容性不是很友好，暂时下架。
+> 
 > **2022.09.06**：更换代理方式，更自由灵活，用户可自定义制作自己的Youtube代理频道。
 > 
 > **2022.08.09**：迁移节目源服务器，修复失效节目源，下架停播源，新增earthTV、K-POP等娱乐性频道当前收录频道数：43
