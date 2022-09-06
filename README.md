@@ -186,7 +186,7 @@
 > 
 > 分辨率：720P=720  1080P=1080
 > 
-> https://php.52sf.ga/@Curly_MouseIPTV-ytb.php?id=watch?v=LbS-xQ67fos&P=1080
+> https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=LbS-xQ67fos&P=1080
 > 
 ### 更新日志
 > **2022.09.06**：更换代理方式，更自由灵活，用户可自定义制作自己的Youtube代理频道。
@@ -322,5 +322,5 @@
 ## 鸣谢
 
 感谢我飞哥、 [linsongze](https://github.com/linsongze) 提供直播平台代理方案，和辛苦修复！
-
+感谢[239144498](https://github.com/239144498)提供4GTV开源代理程序！
 最后感谢 [我自己](https://t.me/Curly_Mouse) 提供PHP代理直播源，提供自制轮播源，互联网收集维护大街源！
