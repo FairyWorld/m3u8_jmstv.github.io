@@ -214,7 +214,7 @@
 
 卷毛鼠基于开源Python程序提供台湾4GTV电视频道节目源，可直接在各种终端平台的播放器中直接播放，目前收录120个频道。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.15-brightgreen?style=for-the-badge)
 
 ### M3U文件
 
@@ -222,6 +222,9 @@
 > 
 
 ### 更新日志
+> **2022.09.15**：切换API接口，修复无法播放的错误。
+> 
+
 > **2022.09.06**：上线4GTV台湾电视频道节目源，当前收录频道数：120
 > 
 
