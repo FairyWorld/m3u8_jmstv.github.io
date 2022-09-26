@@ -304,7 +304,8 @@
 > 436=曲艺台   291=云南   129=福建
 > 434=方言台   11=安徽    327=甘肃
 > 357=新疆     342=青海   308=西藏
-> 
+
+
 > 随机收听云听FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMYT.php?id=&type=
 > 
 > 获取地区分类云听FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMYT.php?id=list&type=云听FM分类ID
@@ -327,9 +328,10 @@
 > gansu=甘肃        xinjiang=新疆
 > guangdong=广东    xizang=西藏
 > jiangxi=江西      xinjiangbingtuan=新疆兵团
-> 
-> 随机收听喜马拉雅FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMXMLY.php?id=rand
 
+
+> 随机收听喜马拉雅FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMXMLY.php?id=rand
+> 
 > 获取喜马拉雅全部FM电台：https://php.52sf.ga/@Curly_MouseIPTV-FMXMLY.php?id=list
 > 
 ### 更新日志
