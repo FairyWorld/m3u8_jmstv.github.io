@@ -342,8 +342,8 @@
 
 ## 鸣谢
 
-感谢我飞哥、 [linsongze](https://github.com/linsongze) 提供直播平台代理方案，和辛苦修复！
+感谢渣渣飞、 linsongze、已经跑路了、土豆、nani、恩山论坛等提供技术支持和指导！
 
 感谢[239144498](https://github.com/239144498)提供4GTV开源代理程序！
 
-最后感谢 [我自己](https://t.me/Curly_Mouse) 提供PHP代理直播源，提供自制轮播源，互联网收集维护大街源！
+
