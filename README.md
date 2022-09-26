@@ -174,21 +174,23 @@
 
 卷毛鼠基于PHP语言做的一套Youtube代理(解析)系统，实现重定向访问Youtube直播流无需挂代理，可直接在各种终端平台的播放器中直接播放，较之前的Youtube代理更具灵活性和稳定性。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.26-brightgreen?style=for-the-badge)
 
 ### 使用教程
 
-> ~~https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=youtubeID&P=分辨率~~
->  已下架，敬请期待替代代理方案！
+> https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=youtubeID&P=分辨率
+>  
 
 使用示例：
 > Youtube链接：https://www.youtube.com/watch?v=LbS-xQ67fos
 > 
 > 分辨率：720P=720  1080P=1080
 > 
-> ~~https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=LbS-xQ67fos&P=1080~~
+> https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=LbS-xQ67fos&P=1080
 > 
 ### 更新日志
+> **2022.09.26**：因此代理方式对播放器兼容性不是很友好，请播放时选用解码功能强点的播放器。
+>
 > **2022.09.06**：因用户反馈部分频道无法播放，经检测发现此代理方式对播放器兼容性不是很友好，暂时下架。
 > 
 > **2022.09.06**：更换代理方式，更自由灵活，用户可自定义制作自己的Youtube代理频道。
@@ -214,14 +216,16 @@
 
 卷毛鼠基于开源Python程序提供台湾4GTV电视频道节目源，可直接在各种终端平台的播放器中直接播放，目前收录120个频道。
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.21-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 
 > https://m3u.52sf.ga/JMSTV-4G.m3u
-> 
+>   * 已暂停，请勿使用！
 
 ### 更新日志
+> **2022.09.26**：因开源作者python程序的请求API数量受限和python线程池数量超标问题，暂时停止维护，新的方案正在筹划中。
+> 
 > **2022.09.21**：迁移节目源服务器，恢复正常播放。
 > 
 > **2022.09.15**：切换API接口，修复无法播放的错误。
@@ -244,7 +248,7 @@
 卷毛鼠从互联网以及群友分享的节目源中检测整理的节目源，精简好用。但大街源失效迅速，维护不易，且用且珍惜。
 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.06-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.09.26-brightgreen?style=for-the-badge)
 
 ### M3U文件
 
@@ -254,6 +258,8 @@
 > 
 
 ### 更新日志
+> **2022.09.26**：上线一套组播源部分地区播放受限，大街源失效不补，随缘更新。
+> 
 > **2022.09.06**：上线江苏移动大街源、湖南移动大街源、大街源失效不补，随缘更新。
 > 
 
