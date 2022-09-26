@@ -252,6 +252,8 @@
 
 ### M3U文件
 
+> https://m3u.52sf.ga/各地组播源.txt
+> 
 > https://m3u.52sf.ga/JMSTV-JSYD.m3u
 > 
 > https://m3u.52sf.ga/JMSTV-HNYD.m3u
