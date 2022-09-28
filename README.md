@@ -38,11 +38,10 @@
 
 卷毛鼠公益项目成立于2020年8月30日，已稳定运行将近两年，卷毛鼠公益项目包括：公益流媒体服务（Emby）、公益电视直播与广播服务（IPTV&Radio）您关注卷毛鼠，卷毛鼠关注世界，世界在您身边！
 
-卷毛鼠公益流媒体 Telegram频道：https://t.me/CurlyMouse
+卷毛鼠节目源均来自于互联网开源项目和代码，仅用于学习研究使用，请下载后于24小时内删除，严禁用于非法牟利！
 
 卷毛鼠公益IPTV Telegram频道：https://t.me/CurlyMouseIPTV
 
-卷毛鼠公益流媒体 Telegram交流群：https://t.me/Curly_Mouse
 
 卷毛鼠公益IPTV Telegram交流群：https://t.me/Curly_MouseIPTV
 
