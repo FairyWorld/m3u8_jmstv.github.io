@@ -40,10 +40,6 @@
 
 卷毛鼠节目源均来自于互联网开源项目和代码，仅用于学习研究使用，请下载后于24小时内删除，严禁用于非法牟利！
 
-卷毛鼠公益IPTV Telegram频道：https://t.me/CurlyMouseIPTV
-
-
-卷毛鼠公益IPTV Telegram交流群：https://t.me/Curly_MouseIPTV
 
 ---
 
