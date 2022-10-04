@@ -282,6 +282,6 @@
 
 ## 鸣谢
 
-感谢渣渣飞、 linsongze、已经跑路了、土豆、nani、恩山论坛等提供技术支持和指导！
+感谢渣渣飞、 linsongze、已经跑路了、土豆、nani、Fola LCR、Chris恩山论坛等提供技术支持和指导！
 
 
