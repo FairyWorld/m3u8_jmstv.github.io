@@ -62,6 +62,14 @@
 ## **卷毛鼠推流直播源**
 卷毛鼠通过服务器FFMPEG推流出的电视直播源，可直接在各种终端平台的播放器中直接播放。为防止滥用，推流源限制频道通道为188，就是说同时可允许188人观看不重复的188个频道，多人同时观看同一频道不额外占用通道名额。
 
+自推流推荐播放器：
+
+苹果：APTV、Fileball、iplaytv
+
+安卓：tivimate、televizo
+
+PC：Potplayer、VLC
+
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.10.05-brightgreen?style=for-the-badge)
 
 频道列表
