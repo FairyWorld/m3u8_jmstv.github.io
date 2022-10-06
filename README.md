@@ -70,7 +70,7 @@
 
 PC：Potplayer、VLC
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.10.05-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.10.06-brightgreen?style=for-the-badge)
 
 频道列表
 
@@ -82,12 +82,14 @@ PC：Potplayer、VLC
 
 频道源订阅
 
-> https://m3u.52sf.ga/JMSTV-ALL.m3u
+> 卷毛鼠推流：https://m3u.52sf.ga/JMSTV-ALL.m3u
 > 
-> https://m3u.52sf.ga/JMSTV-4G.m3u
+> 4GTV：https://stream.naihe.cf/program.m3u
 > 
 
 ### 更新日志
+> **2022.10.06**：优化推流源播放体验，分离出4GTV频道,4GTV是取自github开源源，如失效请等原作者修复。
+>
 > **2022.10.05**：上线自推流电视频道，包含之前的PHP代理、4gtv和两制区频道，频道数：401；4GTV是取自github开源源，如失效请等原作者修复，频道数：121。
 >
 > **2022.09.26**：上线两制区节目源涵盖翡翠、凤凰、艾尔达体育等热门频道。
